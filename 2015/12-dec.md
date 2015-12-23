@@ -7,3 +7,4 @@
 | 12/04/2015 | [An Operational Analysis Primer - Part 2 Resource-level Evaluation ](http://www.cmg.org/publications/measureit/2014-2/measureit-14-3/operational-analysis-primer-part-2-resource-level-evaluation/) | Performance Measurement | 2014
 | 12/04/2015 | [An Operational Analysis Primer - Part 3 Modeling ](http://www.cmg.org/publications/measureit/2014-2/measureit-issue-4-2014/operational-analysis-primer-part-3-modeling/) | Performance Measurement | 2014
 | 12/04/2015 | [An Operational Analysis Primer - Part 4 Additional Topics ](http://www.cmg.org/publications/measureit/2014-2/measureit-issue-14-5/operational-analysis-primer-part-4-additional-topics/) | Performance Measurement | 2014
+| 12/23/2015 | [The Strength of weak Ties ](https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf) | Graph Theory | 2014
