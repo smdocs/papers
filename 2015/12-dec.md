@@ -9,3 +9,4 @@
 | 12/04/2015 | [An Operational Analysis Primer - Part 4 Additional Topics ](http://www.cmg.org/publications/measureit/2014-2/measureit-issue-14-5/operational-analysis-primer-part-4-additional-topics/) | Performance Measurement | 2014
 | 12/23/2015 | [The Strength of weak Ties ](https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf) | Graph Theory | 2014
 | 12/23/2015 | [Graphs in the world: Modelling systems as networks ](http://radar.oreilly.com/2015/06/graphs-in-the-world-modeling-systems-as-networks.html) | Graph Theory | 2014
+| 12/23/2015 | [Scuba: Diving into Data at Facebook](https://research.facebook.com/publications/456106467831449/scuba-diving-into-data-at-facebook/) | Database Theory | 2014
