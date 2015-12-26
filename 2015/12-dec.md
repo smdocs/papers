@@ -11,3 +11,4 @@
 | 12/23/2015 | [Graphs in the world: Modelling systems as networks ](http://radar.oreilly.com/2015/06/graphs-in-the-world-modeling-systems-as-networks.html) | Graph Theory | 2014
 | 12/23/2015 | [Scuba: Diving into Data at Facebook](https://research.facebook.com/publications/456106467831449/scuba-diving-into-data-at-facebook/) | Database Theory | 2014
 | 12/23/2015 | [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf) | Data Processing | 2014
+| 12/26/2015 | [Practical Lock Freedom](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-579.pdf) | Concurrent Programming | 2014
