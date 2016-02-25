@@ -23,7 +23,12 @@ Though much of our design was motivated by the realworld experiences detailed in
 guided by a core set of principles that we believed our model should embody:
 
 • Never rely on any notion of completeness.
+
 • Be flexible, to accommodate the diversity of known use cases, and those to come in the future.
+
 • Not only make sense, but also add value, in the context of each of the envisioned execution engines.
+
 • Encourage clarity of implementation.
+
 • Support robust analysis of data in the context in which they occurred.
+
