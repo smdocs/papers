@@ -16,3 +16,14 @@ time of occurrence.
 
 • Processing Time, which is the time at which an event is observed at any given point during processing within the pipeline, i.e. the 
 current time according to the system clock. Note that we make no assumptions about clock synchronization within a distributed system.
+
+
+##### Design Principles
+Though much of our design was motivated by the realworld experiences detailed in Section 3.3 below, it was also
+guided by a core set of principles that we believed our model should embody:
+
+• Never rely on any notion of completeness.
+• Be flexible, to accommodate the diversity of known use cases, and those to come in the future.
+• Not only make sense, but also add value, in the context of each of the envisioned execution engines.
+• Encourage clarity of implementation.
+• Support robust analysis of data in the context in which they occurred.
