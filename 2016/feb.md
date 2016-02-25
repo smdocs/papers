@@ -8,3 +8,4 @@
 
 #### References
 1. [A Collection of Haskell Papers](http://www.stephendiehl.com/posts/essential_haskell.html)
+2. Notes on the dataflow model paper.
