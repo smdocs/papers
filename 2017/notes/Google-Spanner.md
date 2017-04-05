@@ -1,5 +1,7 @@
 # Thoughts on Spanner
 
+#### [Spanner - Google's Globally Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)
+
 At its heart, Spanner operates by using clock time to determine transaction semantics, e.g. what exact data should be visible to a transaction. You could never do this with normal wall clock time. Even with the best possible NTP synchronization you’d get incorrect results at any kind of a real transaction rate — certainly at 1000 TPS, but realistically much lower rates could cause problems as well.
 
 Google works around this issue with TrueTime, which measures both clock time and an error margin for that timestamp. This means that a “timestamp” is actually two values — the earliest time that timestamp could possibly be, and the latest time. To determine ordering, you need to correctly compare earliest and latest time; i.e., T1 < T2 only if T1.latest < T2.earliest.
