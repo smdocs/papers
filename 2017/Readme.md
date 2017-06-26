@@ -6,4 +6,4 @@
     - [The Secret Lives of Data](http://thesecretlivesofdata.com/)
 3. [The Promise, and Limitations, of Gossip Protocols](papers/Advantages-Disadvantages-of-Gossip-Protocol.pdf)
 4. [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](papers/Logical-Physical-Clocks.pdf) - [My Notes](notes/Logical-Physical-Clocks.md)
-[Spanner: Google’s Globally-Distributed Database]()
+5. [Spanner: Google’s Globally-Distributed Database]() - [My Notes](notes/)
